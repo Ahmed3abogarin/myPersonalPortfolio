@@ -411,6 +411,7 @@ img {
   .contact__form {
     width: 360px;
     padding-top: 2rem;
+    transform: translateX(20px); 
   }
   .contact__container {
     justify-items: center;
