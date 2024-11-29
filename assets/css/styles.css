@@ -332,6 +332,7 @@ img {
   border: 1.5px solid var(--second-color);
   outline: none;
   margin-bottom: var(--mb-4);
+  transform: translateX(20px); 
 }
 .contact__button {
   display: block;
