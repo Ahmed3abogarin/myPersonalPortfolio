@@ -437,9 +437,11 @@ img{
         &__form{
             width: 360px;
             padding-top: 2rem ;
+            transform: translateX(20px); 
         }
         &__container{
             justify-items: center;
+            transform: translateX(20px); 
         }
     }
 }
