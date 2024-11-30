@@ -431,7 +431,7 @@ img {
 
   .contact__info {
     text-align: left; /* Align text to the left */
-    font-size: 16px;
+    font-size: 36px;
     line-height: 1.6;
     padding: 20px; /* Optional: Adds padding */
     gap: 20px;
@@ -441,13 +441,13 @@ img {
   .contact__item {
     display: flex;
     align-items: center;
-    margin-bottom: 15px; /* Adds gap between items */
+    margin-bottom: 20px; /* Adds gap between items */
 }
 
 .contact__item i {
     color: #007BFF; /* Icon color */
     margin-right: 10px; /* Space between icon and text */
-    font-size: 18px; /* Adjust icon size */
+    font-size: 36px; /* Adjust icon size */
 }
 
 .contact__item span {
