@@ -419,7 +419,7 @@ img {
     padding-top: 2rem;
   }
   .contact__form {
-    width: 360px;
+    width: 500px;
     padding-top: 2rem;
     transform: translateX(100px); 
   }
@@ -447,7 +447,7 @@ img {
 .contact__item i {
     color: #007BFF; /* Icon color */
     margin-right: 10px; /* Space between icon and text */
-    font-size: 72px; /* Adjust icon size */
+    font-size: 24px; /* Adjust icon size */
 }
 
 .contact__item span {
