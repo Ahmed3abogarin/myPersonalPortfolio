@@ -8,5 +8,3 @@
 
 💙 Follow me on Instagram. [Bedimcode](https://www.youtube.com/@Bedimcode)
 
-![preview img](/preview.png)
-
