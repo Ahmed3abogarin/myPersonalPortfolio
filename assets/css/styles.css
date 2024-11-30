@@ -438,6 +438,22 @@ img {
     border-radius: 8px; /* Optional: Adds rounded corners */
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Optional: Adds shadow effect */
 }
+
+  .contact__item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px; /* Adds gap between items */
+}
+
+.contact__item i {
+    color: #007BFF; /* Icon color */
+    margin-right: 10px; /* Space between icon and text */
+    font-size: 18px; /* Adjust icon size */
+}
+
+.contact__item span {
+    font-size: 16px;
+}
 }
 @media screen and (min-width: 768px) {
   body {
