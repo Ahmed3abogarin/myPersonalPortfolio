@@ -432,6 +432,7 @@ img {
     text-align: left; /* Align text to the left */
     font-size: 28px;
     line-height: 1.6;
+    padding-top: 2rem;
     padding: 20px; /* Optional: Adds padding */
     gap: 20px;
     border-radius: 8px; /* Optional: Adds rounded corners */
@@ -440,7 +441,7 @@ img {
   .contact__item {
     display: flex;
     align-items: center;
-    margin-bottom: 20px; /* Adds gap between items */
+    margin-bottom: 35px; /* Adds gap between items */
 }
 
 .contact__item i {
