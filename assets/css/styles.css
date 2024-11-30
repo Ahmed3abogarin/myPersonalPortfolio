@@ -447,11 +447,11 @@ img {
 .contact__item i {
     color: #007BFF; /* Icon color */
     margin-right: 10px; /* Space between icon and text */
-    font-size: 36px; /* Adjust icon size */
+    font-size: 72px; /* Adjust icon size */
 }
 
 .contact__item span {
-    font-size: 16px;
+    font-size: 36px;
 }
 }
 @media screen and (min-width: 768px) {
