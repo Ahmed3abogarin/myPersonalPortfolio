@@ -421,7 +421,6 @@ img {
   .contact__form {
     width: 500px;
     padding-top: 2rem;
-    transform: translateX(100px); 
   }
   .contact__container {
     display: grid;
@@ -431,7 +430,7 @@ img {
 
   .contact__info {
     text-align: left; /* Align text to the left */
-    font-size: 36px;
+    font-size: 28px;
     line-height: 1.6;
     padding: 20px; /* Optional: Adds padding */
     gap: 20px;
@@ -447,11 +446,11 @@ img {
 .contact__item i {
     color: #007BFF; /* Icon color */
     margin-right: 10px; /* Space between icon and text */
-    font-size: 24px; /* Adjust icon size */
+    font-size: 32px; /* Adjust icon size */
 }
 
 .contact__item span {
-    font-size: 36px;
+    font-size: 28px;
 }
 }
 @media screen and (min-width: 768px) {
