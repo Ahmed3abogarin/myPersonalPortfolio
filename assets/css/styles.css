@@ -430,7 +430,7 @@ img {
 
   .contact__info {
     text-align: left; /* Align text to the left */
-    font-size: 28px;
+    font-size: 24px;
     line-height: 1.6;
     padding-top: 2rem;
    /* Optional: Adds padding */
@@ -447,7 +447,7 @@ img {
 .contact__item i {
     color: #007BFF; /* Icon color */
     margin-right: 10px; /* Space between icon and text */
-    font-size: 32px; /* Adjust icon size */
+    font-size: 30px; /* Adjust icon size */
 }
 
 .contact__item span {
